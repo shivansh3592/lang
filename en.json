@@ -7,5 +7,14 @@
     "Cancel": "Cancel",  
     "Home": "Home",  
     "Employee": "Employee",  
-    "EmployeeList": "Employee List"  
+    "EmployeeList": "Employee List"  ,
+    "Welcome" : "Welcome",
+    "to" : "to",
+    "The" : "The",
+    "Current" : "Current",
+    "time" : "time",
+    "in" : "in",
+    "Multilanguage" : "Multilanguage",
+    "Welcome to" :"Welcome to",
+    "The Current time in" : "The Current time in"
 }  
